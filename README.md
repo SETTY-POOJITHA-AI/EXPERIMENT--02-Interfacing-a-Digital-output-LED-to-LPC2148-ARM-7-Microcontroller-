@@ -143,11 +143,10 @@ int main()
 }
 ## Output screen shots :
 ```
-![Screenshot (210)](https://user-images.githubusercontent.com/93427581/192128463-91c40e97-1343-4117-bb2d-5edd4b00279f.png)
-![Screenshot (211)](https://user-images.githubusercontent.com/93427581/192128485-99f8d650-9eca-4f1e-b39e-5ae5a8ffc754.png)
-![Screenshot (212)](https://user-images.githubusercontent.com/93427581/192128491-bab7762f-965b-4cc6-a722-61c8394a7721.png)
+![op1](https://user-images.githubusercontent.com/93427581/192128646-5a679017-d556-45da-ad7f-d13738d7b1bc.png)
+![op2](https://user-images.githubusercontent.com/93427581/192128650-171ac4b5-dadf-494b-a984-699c937c54a0.png)
+![op3](https://user-images.githubusercontent.com/93427581/192128657-a4bec0d9-990d-4679-b37b-aa0d8138e16d.png)
 
- 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed 
 
